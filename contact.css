@@ -44,7 +44,6 @@ input[type=text], select, textarea {
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
   }
 
-<<<<<<< HEAD
   /* Style inputs with type="email", select elements and textareas */
 input[type=email], select, textarea {
   width: 100%; /* Full width */
@@ -56,7 +55,7 @@ input[type=email], select, textarea {
   margin-bottom: 16px; /* Bottom margin */
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
-=======
+
 input[type=email], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -67,7 +66,6 @@ input[type=email], select, textarea {
     margin-bottom: 16px; /* Bottom margin */
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
   }
->>>>>>> 553017f7b2fb2a2525df1bb25a080dd77c46ff30
   
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
